@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-next"]
+	path = themes/hexo-theme-next
+	url = git@upcwangying.github.com:upcwangying/hexo-theme-next.git
